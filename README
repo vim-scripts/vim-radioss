@@ -1,0 +1,10 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=5168
+
+VIM filetype plugin for Radioss FE solver. 
+
+Main plugin features: 
+- syntax highlighting 
+- node/element table folding 
+- keyword library 
+- function commands 
+- many others useful features 
